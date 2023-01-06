@@ -1,0 +1,10 @@
+#include <iostream>
+#include <Windows.h>
+#include <TlHelp32.h>
+#include <Psapi.h>
+#include <math.h>
+#include "calcs.h"
+#include "cheat_Functions.h"
+#include "Functions.h"
+#include "Function_State.h"
+#include "Hooks.h"

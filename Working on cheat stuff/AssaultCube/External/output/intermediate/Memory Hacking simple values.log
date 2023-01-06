@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\lamir\Desktop\Working on cheat stuff\AssaultCube\Memory Hacking simple values\main.cpp(77,84): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\lamir\Desktop\Working on cheat stuff\AssaultCube\Memory Hacking simple values\main.cpp(96,85): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\lamir\Desktop\Working on cheat stuff\AssaultCube\Memory Hacking simple values\main.cpp(114,86): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\lamir\Desktop\Working on cheat stuff\AssaultCube\Memory Hacking simple values\main.cpp(130,74): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  Memory Hacking simple values.vcxproj -> C:\Users\lamir\Desktop\Working on cheat stuff\AssaultCube\Memory Hacking simple values\output\Memory Hacking simple values.exe
